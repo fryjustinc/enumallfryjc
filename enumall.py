@@ -19,7 +19,7 @@ import time
 import os
 import sys
 
-reconPath = "/home/fryjustinc/recon-ng/"
+reconPath = "/usr/share/recon-ng/"
 # altDnsPath = "/root/Desktop/altdns-master/"
 
 sys.path.insert(0,reconPath)
